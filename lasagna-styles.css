@@ -13,15 +13,23 @@ h1 {
     text-align: center;
 }
 
-h2 {
-    margin-bottom: 8px;
-}
-
 img {
     border: 5px solid;
     border-radius: 8px;
     display: block;
     margin: 8px auto;
+}
+
+ol {
+    padding-left: 16px;
+}
+
+.mb-8 {
+    margin-bottom: 8px;
+}
+
+.mb-24 {
+    margin-bottom: 24px;
 }
 
 .description {
